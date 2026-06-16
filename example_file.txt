@@ -7,3 +7,4 @@ when you check the GitHub, you'll see that your changes are made there
 
 you can still make changes here, but they are only local to this computer until you push them.
 
+hello hi hello hi
