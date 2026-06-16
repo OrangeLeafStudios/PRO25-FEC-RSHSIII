@@ -1,0 +1,3 @@
+then you can upload whatever things or changes you make to the repository by pressing the blue button that says commit
+
+make sure you save the file first
